@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC58e9dfc9E38e8B9a66c3e92Ea4dE2bE20D4Bbe4",
+  "SCAN_LINK": "https://polygonscan.com/address/0xC58e9dfc9E38e8B9a66c3e92Ea4dE2bE20D4Bbe4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Hanmanbignumber",
+  "SYMBOL": "han",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 3000000000000000000000,
+  "DISPLAY_COST": 3000,
+  "GAS_LIMIT": 300,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
